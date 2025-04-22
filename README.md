@@ -15,8 +15,6 @@
 [docs-badge]: https://docs.rs/metrics/badge.svg
 [docs]: https://docs.rs/metrics
 [discord-badge]: https://img.shields.io/discord/500028886025895936
-[last-commit-badge]: https://img.shields.io/github/last-commit/metrics-rs/metrics
-[contributors-badge]: https://img.shields.io/github/contributors/metrics-rs/metrics
 
 
 ## code of conduct
